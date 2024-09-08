@@ -1,7 +1,7 @@
 # TechFusion 
-link do site:
+link do site: https://tech-fusion-xi.vercel.app/
 
-<a href="#" target="_blank">Visite o TechFusion </a>
+<a href="https://tech-fusion-xi.vercel.app/" target="_blank">Visite o TechFusion</a>
 
 
 Bem-vindo ao **TechFusion**, Um site dedicado aos apaixonados por tecnologia! O TechFusion oferece informações detalhadas sobre diversos cursos e formações na área de tecnologia, com foco em quem deseja seguir uma carreira ou se especializar no setor. Além disso, conta com uma funcionalidade de pesquisa que facilita a navegação entre os cursos oferecidos pela Alura e pela FIAP, proporcionando uma experiência rápida e eficiente.
@@ -29,7 +29,7 @@ O **TechFusion** é um projeto que visa unir duas grandes instituições de ensi
 
 1. Clone o repositório em sua máquina local:
    ```bash
-   git clone ...
+   git clone https://github.com/Dan1Nicolas/TechFusion.git
    ```
 2. Abra o arquivo index.html no navegador que preferir.
 
